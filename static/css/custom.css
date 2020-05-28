@@ -7,4 +7,12 @@ body {
   background: linear-gradient(90deg, #860000 0%, #790909 35%, red 100%);
 }
 
+.textie {
+  margin-right: 10px;
+}
+
+.no-margin {
+  margin-bottom: 0px;
+}
+
 /*# sourceMappingURL=custom.css.map */
