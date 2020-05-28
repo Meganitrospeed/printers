@@ -22,8 +22,8 @@ function page:start(
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"></link>
 <script src="/static/js/include.js"></script>
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"></link>
-    <!-- Compiled and minified JavaScript -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+   <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
          <link rel="stylesheet" type="text/css" href="/static/css/custom.css"></link>
 </head>
@@ -31,7 +31,7 @@ function page:start(
 <body class="cool">
 <form action="/printers/printerName" method="POST">
 <div class="container">
-<div class="row cool">
+<div class="row">
 <div class="col s6">
 <div class="card-panel lighten-5 grey">
 <h4>NOMBRE:</h4>
