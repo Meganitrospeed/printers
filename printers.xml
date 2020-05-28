@@ -1,0 +1,20 @@
+<printers>
+    <printer>
+        <id>1</id>
+        <name>Makerbot</name>
+        <type>FDM</type>
+        <price>1900</price>
+    </printer>
+    <printer>
+        <id>2</id>
+        <name>Ultimaker</name>
+        <type>FDM</type>
+        <price>900</price>
+    </printer>
+     <printer>
+         <id>3</id>
+        <name>CReality</name>
+        <type>FDM</type>
+        <price>120</price>
+     </printer>
+</printers>

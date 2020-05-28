@@ -1,0 +1,10 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #790909 35%;
+}
+
+.cool {
+  background: linear-gradient(90deg, #860000 0%, #790909 35%, red 100%);
+}
+
+/*# sourceMappingURL=custom.css.map */
