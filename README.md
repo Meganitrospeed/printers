@@ -10,7 +10,7 @@ I have added a bit of my own taste to the project, even tho the CSS is horrible 
 - [Features](#-features)
 - [License](#-license)
 
-## Tools
+## 🔧 Tools
 This project is a WIP so this list may be expanded, but to this day I have worked with
 
  - WebStorm
@@ -19,7 +19,7 @@ This project is a WIP so this list may be expanded, but to this day I have worke
  - JS
 
 
-## License
+## 📜 License
 
 The MIT License (MIT)
 
