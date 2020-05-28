@@ -18,6 +18,9 @@ This project is a WIP so this list may be expanded, but to this day I have worke
  - SASS
  - JS
 
+## 🎨 Features
+Just a basic CRUD made on BaseX, using Materialize as the main CSS
+
 
 ## 📜 License
 
