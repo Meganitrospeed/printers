@@ -78,9 +78,14 @@ function page:start(
                         <label for="price">PRECIO</label>
                     </div>
             </div>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
                      <button class="btn waves-effect waves-light red pulse no-margin" type="submit">Añadir</button>
-                     <br/>
-                     <br/>
+
         </div>
         </div>
         </div>
